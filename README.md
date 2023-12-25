@@ -2,24 +2,24 @@
 
 WorldWise is front-end application build with React JS, and you can take this back-end so [WorldWise-RESTful-API](https://github.com/BCIamLong/WorldWise-RESTful-API) to make it become MERN (Mongo, ExpressJS, ReactJS, NodeJS) stack project
 
-[https://ibb.co/7CjnvMm](https://github.com/BCIamLong/WorldWise)
+[![WorldWise is front-end application build with React JS](https://ibb.co/7CjnvMm)](https://github.com/BCIamLong/WorldWise)
 
 ## Features
 
 ### Sign up, login, logout
 
-[https://ibb.co/rdCX3rP](https://github.com/BCIamLong/WorldWise)
+[![WorldWise is front-end application build with React JS](https://ibb.co/rdCX3rP)](https://github.com/BCIamLong/WorldWise)
 
 ### App
 
-[https://ibb.co/ZcdzD8C](https://github.com/BCIamLong/WorldWise)
+[![WorldWise is front-end application build with React JS](https://ibb.co/ZcdzD8C)](https://github.com/BCIamLong/WorldWise)
 
 ## Start with WorldWise App
 
 1. Clone this project, cd to project
 
 ```
-git clone
+git clone https://github.com/BCIamLong/WorldWise.git
 
 cd worldwise
 ```
