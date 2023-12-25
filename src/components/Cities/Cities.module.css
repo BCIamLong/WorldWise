@@ -1,0 +1,24 @@
+.countries {
+  height: 100%;
+  /* overflow-y: scroll; */
+  /* overflow: hidden; */
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  list-style: none;
+  height: 34rem;
+  overflow-y: scroll;
+}
+
+.list a:link,
+.list a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+.list a:global(.active) {
+  border: 0.2rem solid #37b24d;
+}

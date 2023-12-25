@@ -1,0 +1,12 @@
+.cities {
+  width: 45rem;
+  height: 100%;
+  /* overflow-y: scroll; */
+}
+
+.list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  list-style: none;
+  gap: 1.6rem;
+}

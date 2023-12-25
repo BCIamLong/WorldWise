@@ -1,0 +1,49 @@
+.map {
+  background-color: #f8f9fa;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+/* .map button {
+  border: none;
+  background-color: #37b24d;
+  padding: 0.8rem 1.6rem;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  font-weight: 500;
+  border-radius: 0.8rem;
+  position: absolute;
+  bottom: 9%;
+  right: 50%;
+  transform: translateX(50%);
+  cursor: pointer;
+  line-height: 1.4;
+  z-index: 1000;
+} */
+
+:global(.leaflet-container) {
+  height: 100%;
+  width: 100%;
+  /* z-index: 100; */
+}
+
+:global(.leaflet-popup-content) {
+  font-family: inherit;
+}
+
+:global(.leaflet-popup-content-wrapper) {
+  border-radius: 0.6rem !important;
+  border-left: 0.6rem solid #0ca678;
+  width: 100%;
+  background-color: #212529 !important;
+  color: #fff !important;
+}
+
+:global(.leaflet-popup-tip) {
+  background-color: #212529 !important;
+}
+
+:global(.leaflet-popup-close-button) {
+  color: #fff !important;
+}

@@ -1,0 +1,11 @@
+.app {
+  height: 100%;
+  background-color: #343a40;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: 5fr 6fr;
+  height: 100%;
+  position: relative;
+}
